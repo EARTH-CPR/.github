@@ -36,4 +36,7 @@
 <li>Local 환경에서 학습한 model을 EC2 위에서 Flask를 통해 REST API로 제공</li>
 </ul>
 
+## ERD
+![image](https://github.com/user-attachments/assets/9f3af0ba-7681-4d0c-aeb3-767e6d7a0337)
+
 
