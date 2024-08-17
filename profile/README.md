@@ -22,5 +22,18 @@
 <img src="https://github.com/user-attachments/assets/0e6dc830-dd54-4e0d-be30-0a17b209b7db" alt="시스템 아키텍쳐" width="60%"/>
 <img src="https://github.com/user-attachments/assets/c06b9092-b652-40cd-a644-d21278fd3e26"  width="80%"/>
 
+[FE] 
+<ul>
+<li>Flutter을 활용한 android 어플리케이션 개발</li>
+</ul>
+[BE]
+<ul>
+<li>Spring boot를 활용한 REST API 배포</li>
+<li>Docker CI/CD를 활용한 test 및 배포</li>
+</ul>
+[AI]
+<ul>
+<li>Local 환경에서 학습한 model을 EC2 위에서 Flask를 통해 REST API로 제공</li>
+</ul>
 
 
