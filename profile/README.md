@@ -16,6 +16,9 @@
 |  | 챌린지 등록 | CHL02 | 챌린지에 참여할 수 있도록 등록하는 기능 제공 |  |
 |  | 챌린지 검증 | CHL03 | 챌린지의 진행 상태와 성공 여부를 검증하는 기능 제공 |  |
 |  | 뱃지 관리 | CHL04 | 챌린지 성과에 따라 뱃지를 관리하고 보여주는 기능 제공 |  |
+<br/>
 
-![image](https://github.com/user-attachments/assets/4c115e5d-aa60-4170-b11c-81c2245609b5)
+## 시스템 아키텍쳐
+![image](https://github.com/user-attachments/assets/c06b9092-b652-40cd-a644-d21278fd3e26)
+
 
