@@ -20,7 +20,7 @@
 
 ## 시스템 아키텍쳐
 <img src="https://github.com/user-attachments/assets/0e6dc830-dd54-4e0d-be30-0a17b209b7db" alt="시스템 아키텍쳐" width="60%"/>
-<img src="https://github.com/user-attachments/assets/c06b9092-b652-40cd-a644-d21278fd3e26"  width="80%"/>
+![image](https://github.com/user-attachments/assets/67f4aaf5-17a3-4a88-a204-a1eab6e1fb1a)
 
 [FE] 
 <ul>
