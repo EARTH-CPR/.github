@@ -3,7 +3,7 @@
 지구를 지키고 건강을 챙기는 동시에 적금을 통해 재정적 목표를 달성할 수 있는 프로젝트입니다. ESG(환경, 사회, 지배구조)와 웰니스(건강과 행복)를 중심으로 한 적금 관리 및 챌린지 기능을 통해 브랜드 가치를 높이는 데 기여합니다.<br/>
 [🌐 프론트엔드 Repository](https://github.com/EARTH-CPR/Frontend)<br/>
 [🌐 백엔드 Repository](https://github.com/EARTH-CPR/Backend)<br/>
-[🌐 AI Repository](https://github.com/EARTH-CPR/AI)<br/>
+[🌐 AI Repository](https://github.com/EARTH-CPR/AI)<br/>
 
 ## 🔑 핵심 기능
 
